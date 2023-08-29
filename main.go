@@ -1,4 +1,4 @@
-package utilsR
+package encryptdecrypt
 
 import (
 	"crypto/aes"
